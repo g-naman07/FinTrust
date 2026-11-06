@@ -1,0 +1,26 @@
+company,metric,period,value,unit,currency,source
+Apple Inc.,Revenue,2025-09-27,102466.0,USD millions,USD,Provider_A
+Apple Inc.,Revenue,2025-09-27,102466.0,USD millions,USD,Provider_B
+Apple Inc.,Net Income,2025-09-27,27466.0,USD millions,USD,Provider_A
+Apple Inc.,Net Income,2025-09-27,27460.0,USD millions,USD,Provider_B
+Microsoft Corp.,Revenue,2025-09-30,77700.0,USD millions,USD,Provider_A
+Microsoft Corp.,Revenue,2025-09-30,77700.0,USD millions,USD,Provider_B
+Microsoft Corp.,Operating Income,2025-09-30,29300.0,USD millions,USD,Provider_A
+Microsoft Corp.,Operating Income,2025-09-30,29300.0,USD millions,USD,Provider_B
+NVIDIA Corp.,Revenue,2025-10-26,57006.0,USD millions,USD,Provider_A
+NVIDIA Corp.,Revenue,2025-10-26,57060.0,USD millions,USD,Provider_B
+NVIDIA Corp.,Net Income,2025-10-26,31900.0,USD millions,USD,Provider_A
+NVIDIA Corp.,Net Income,2025-10-26,31900.0,USD millions,USD,Provider_B
+Amazon.com Inc.,Revenue,2025-09-30,180200.0,USD millions,USD,Provider_A
+Amazon.com Inc.,Revenue,2025-09-30,180200.0,USD millions,USD,Provider_B
+Alphabet Inc.,Revenue,2025-09-30,102300.0,USD millions,USD,Provider_A
+Alphabet Inc.,Revenue,2025-09-30,102300.0,USD millions,USD,Provider_B
+Meta Platforms Inc.,Revenue,2025-09-30,51200.0,USD millions,USD,Provider_A
+Meta Platforms Inc.,Revenue,2025-09-30,51200.0,USD millions,USD,Provider_B
+Tesla Inc.,Revenue,2025-09-30,28095.0,USD millions,USD,Provider_A
+Tesla Inc.,Revenue,2025-09-30,28095.0,USD millions,USD,Provider_B
+Apple Inc.,Revenue,2025-09-27,102466.0,USD millions,USD,Provider_A
+Tesla Inc.,Net Income,bad-date,2500.0,USD millions,USD,Provider_A
+Amazon.com Inc.,Operating Income,2025-09-30,16000.0,USD millions,USD,Provider_A
+Amazon.com Inc.,Operating Income,2025-09-30,,USD millions,USD,Provider_B
+Microsoft Corp.,Net Income,2025-09-30,27600.0,USD millions,US,Provider_A
